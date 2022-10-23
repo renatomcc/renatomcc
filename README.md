@@ -10,6 +10,7 @@ I'm a front-end developer and i'd like to show you my projects :)
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript">
   <img align="center" alt="SASS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass">
   <img align="center" alt="BOOTSTRAP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Bootstrap">
+  <img align="center" alt="Angular" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="ReactJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReacjtJS">
   <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript">
   <img align="center" alt="NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS">
