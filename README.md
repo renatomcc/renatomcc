@@ -1,5 +1,5 @@
-### Welcome, my name is Renato Manfredinny !
-I'm a front-end developer and i'd like to show you my projects :) 
+### Welcome, my name is Renato Castro !
+I'm a fullstack developer and i'd like to show you my projects :) 
 
 
 
